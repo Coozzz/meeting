@@ -1,5 +1,5 @@
-apply plugin: 'com.android.library'
-apply plugin: 'com.novoda.bintray-release' // must be applied after your artifact generating plugin (eg. java / com.android.library)
+﻿apply plugin: 'com.android.library'
+plugin (eg. java / com.android.library)
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
@@ -24,12 +24,4 @@ dependencies {
     compile 'com.android.support:support-v4:25+'
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.github.ctiao:DanmakuFlameMaster:0.8.3'
-}
-publish {
-    userOrg = 'czx104639'//bintray.com用户名
-    groupId = 'cn.redcdn.hvs'//jcenter上的路径，根据自己项目自定义填写
-    artifactId = 'mobileMeetingLib'//项目名称
-    publishVersion = '1.0.0'//版本号
-    desc = 'Oh hi, this is a nice description for a project, right?'//描述，不重要
-    website = 'http://git.oschina.net/xingshen58/learn'//网站，不重要；尽量模拟github上的地址，例如我这样的；当然你有地址最好了
 }
