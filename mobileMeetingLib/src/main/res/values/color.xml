@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<color name="jmeetingsdk_qn_dialog_title_color">#33B5E5</color>
+    <color name="jmeetingsdk_qn_dialog_bottom_bg_press_color">#b5b5b5</color>
+    <color name="jmeetingsdk_qn_dialog_bottom_bg_color">#eeeeee</color>
+	
+    <color name="meeting_room_bg_color">#19212b</color>
+    <color name="meeting_room_invite_text_color">#878F95</color>
+
+    <color name="meeting_room_bg_transparent">#00000000</color>
+    <color name="meeting_room_barrage">#11000000</color>
+
+    <color name="barrage_control_btn_open">#1c8dad</color>
+    <color name="barrage_control_btn_close">#999999</color>
+</resources>

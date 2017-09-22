@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\NJP4\\005_Medical\\android\\src\\ButelMedical\\mobileMeetingLib\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "D:\\NJP4\\005_Medical\\android\\src\\ButelMedical\\mobileMeetingLib\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endLine": 16,
+                        "endColumn": 11,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    }
+]
